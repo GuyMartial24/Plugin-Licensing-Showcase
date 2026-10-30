@@ -90,4 +90,4 @@ Le code source est **la propriété exclusive de l'entreprise** : il n'est pas d
 
 ---
 
-*Projet réalisé par **Martial GADJEU**, Data Engineer & AI (UTT, Troyes).*
+*Projet réalisé par **Martial GADJEU | Data Engineer & AI***
