@@ -1,6 +1,6 @@
 # Plugin Licensing — protection et licences d'un plug-in Java commercial
 
-> Vitrine d'un projet réalisé en entreprise. Le code source, les binaires et la configuration de production restent privés : ils appartiennent à l'entreprise et protègent un logiciel vendu sous licence. Cette page présente la démarche, l'architecture et le résultat.
+> Vitrine d'un projet réalisé en entreprise. Le code source, les binaires et la configuration de production appartiennent à l'entreprise et ne sont pas publiés. Cette page présente la démarche, l'architecture et le résultat.
 
 ## Contexte
 
@@ -86,7 +86,7 @@ Sécurité logicielle (obfuscation, licences, liaison matérielle) · Développe
 
 ## Pourquoi le code n'est pas public
 
-Ce projet protège un produit commercial. Publier les sources, le `.jar` ou la configuration d'obfuscation permettrait de contourner la protection. Le code est disponible **sur demande pour un recruteur**, dans un cadre approprié et avec l'accord de l'entreprise.
+Le code source est **la propriété exclusive de l'entreprise** : il n'est pas diffusé, ni ici ni sur demande. Ce projet protège en outre un produit commercial, et publier les sources, le `.jar` ou la configuration d'obfuscation permettrait de contourner cette protection. Cette page ne présente que la démarche et l'architecture.
 
 ---
 
